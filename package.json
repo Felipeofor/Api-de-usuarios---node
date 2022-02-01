@@ -1,0 +1,17 @@
+{
+  "name": "lista-de-usuarios-api",
+  "version": "1.0.0",
+  "description": "lista de usuarios",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "author": "Ramos Felipe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
